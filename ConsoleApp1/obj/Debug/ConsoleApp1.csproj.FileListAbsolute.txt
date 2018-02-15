@@ -1,0 +1,7 @@
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hugo\Desktop\Universidade 1º Ano\Linguagens de Programação I\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
